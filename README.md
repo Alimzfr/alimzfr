@@ -1,7 +1,7 @@
 ### Ali Mozaffari | Full-Stack .NET Developer
 𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘚𝘤𝘢𝘭𝘢𝘣𝘭𝘦 𝘚𝘺𝘴𝘵𝘦𝘮𝘴 𝘢𝘵 𝘵𝘩𝘦 𝘐𝘯𝘵𝘦𝘳𝘴𝘦𝘤𝘵𝘪𝘰𝘯 𝘰𝘧 𝘐𝘯𝘯𝘰𝘷𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘐𝘮𝘱𝘢𝘤𝘵
 
-With over 6 years of experience delivering enterprise-grade software solutions, I specialize in transforming complex business challenges into high-performance applications. My career spans designing tailored software solutions using cutting-edge technologies, taking advantage of architectures, design patterns and modern tools and libraries. I have a proven track record of achieving a 100% satisfaction rate across more than five companies, collaborating with on-site and remote teams through Agile transformations.
+With over 7 years of experience delivering enterprise-grade software solutions, I specialize in transforming complex business challenges into high-performance applications. My career spans designing tailored software solutions using cutting-edge technologies, taking advantage of architectures, design patterns and modern tools and libraries. I have a proven track record of achieving a 100% satisfaction rate across more than five companies, collaborating with on-site and remote teams through Agile transformations.
 
 #### 📌 Key Achievements
 - Boosted HRMS performance by 50% for Keshavarzi Bank one of the biggest bank in Iran through legacy refactoring, achieving 99.9% uptime for 20,000+ users.
